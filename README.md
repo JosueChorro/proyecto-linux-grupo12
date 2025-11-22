@@ -1,4 +1,4 @@
-# Proyecto Linux Grupo 6
+# Proyecto Linux Grupo 12
 
 Este proyecto forma parte de la asignatura *Introducción al Software Libre* de la Universidad de El Salvador.
 
